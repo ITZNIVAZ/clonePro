@@ -1,1 +1,2 @@
- THIS REPOSITOR FOR THE LEARNING GIT CLONE!
+ THIS REPOSITOR FOR THE LEARNING GIT CLONE
+------------------------------------------------
